@@ -1,5 +1,4 @@
-abhi.practice_accessKeys.csv
-abhi.practice_credentials.csv
+*.csv
 terraform-up-and-running-code
 *.tfstate
 *.tfstate.backup
