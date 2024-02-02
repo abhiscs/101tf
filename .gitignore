@@ -4,3 +4,4 @@ terraform-up-and-running-code
 *.tfstate.backup
 .terraform
 *.iml
+.terraform.*
