@@ -5,3 +5,4 @@ terraform-up-and-running-code
 .terraform
 *.iml
 .terraform.*
+.terraform*
